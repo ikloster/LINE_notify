@@ -1,0 +1,3 @@
+eventthai_Web01
+eventthai_Web02
+eventthai_DB
